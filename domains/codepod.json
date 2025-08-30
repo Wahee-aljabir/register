@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "TheSecretCoder"
+    },
+    "records": {
+      "CNAME": "codepod.onrender.com",
+      "CNAME@www": "codepod.onrender.com"
+    }
+}
