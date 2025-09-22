@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "TheSecretCoder",
+    "email": "wahee@virtunus.com"
+  },
+  "records": {
+    "CNAME": "codepod.onrender.com"
+  },
+  "proxied": true
+}
